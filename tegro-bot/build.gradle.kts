@@ -41,7 +41,7 @@ dependencies {
     implementation("org.ton:ton-kotlin-jvm:$tonKotlinVersion")
     implementation("com.github.bnb-chain:java-sdk:1.1.5")
     implementation("com.github.ben-manes.caffeine:caffeine:3.1.5")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-properties:1.5.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-properties:1.8.0")
     implementation("fr.minuskube:jpastee:1.0.2")
     implementation("ch.qos.logback:logback-classic:1.4.6")
     implementation("org.web3j:core:5.0.0")
